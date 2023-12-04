@@ -10,3 +10,4 @@
 | [Прогнозирование количества заказов такси на следующий час](taxi_order_forecasting) | Разработка системы предсказания объема заказа | <ul><li>*Python*</li><li>*Pandas*</li><li>*Scikit-learn*</li><li>*statsmodel*</li></ul> |
 | [Определение наиболее выгодного региона нефтедобычи](choosing_a_location_for_a_well) | На основе данных геологи разведки выбрать район добычи нефти | <ul><li>*Python*</li><li>*Pandas*</li><li>*Scikit-learn*</li><li>*бутстреп*</li></ul> |
 | [Прогнозирование оттока клиента Банка](customer_churn) | На основе данных из банка определить клиент, который может уйти | <ul><li>*Python*</li><li>*Matplotlib*</li><li>*Scikit-learn*</li></ul> |
+| [Обработка фотографий покупателя](processing_buyer_photos) | Определение возраста по фотографии| <ul><li>*Python*</li><li>*Keras*</li></ul> |
